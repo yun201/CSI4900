@@ -1,0 +1,6 @@
+.clang-format
+/obj/
+/lib/
+/alire/
+/config/
+/build-raylib/
